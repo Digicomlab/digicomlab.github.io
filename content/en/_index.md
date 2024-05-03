@@ -1,5 +1,5 @@
 ---
-title: About the Lab
+title: Digital Communication Methods Lab
 description: Website of digicomlab
 github_repo: 
 ---

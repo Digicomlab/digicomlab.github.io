@@ -6,4 +6,4 @@ noindex: true
 
 ---
 
-What do we do blah blah. These are current projects by our group
+The Digicomlab brings together communication scholars working with or on digital research methods. Some of our current research topics include:

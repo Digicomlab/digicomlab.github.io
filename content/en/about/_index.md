@@ -33,13 +33,13 @@ Political Communication & Journalism, ASCoR
 {{< /cards >}}
 
 ## Advisory Board Members
-Members of each Program Group of the Amsterdam School of Communication Research are part of the Advisory Board for the Digital Communication Methods Lab. The Board Members for 2022-23 are:
+Members of each Program Group of the Amsterdam School of Communication Research are part of the Advisory Board for the Digital Communication Methods Lab. The current Board Members are:
 
 Corporate Communication: Dr. Mark Boukes
 
 Persuasive Communication: Dr. Zeph van Berlo
 
-Political Communication & Journalism: Dr. Susan Vermeer
+Political Communication & Journalism: Dr. Frederic Hopp
 
 Youth & Media Entertainment: Dr. Lara Wolfers
 
@@ -48,3 +48,6 @@ Dr. Rebekah Tromble (George Washington University) and Dr. Jakob Ohme (Weizenbau
 
 ## Past Board
 The Digital Communication Methods Lab started as an initiative of the RPA Communication. Prof. Claes de Vreese was the director of the RPA Communication, and of the Digital Communication Methods Lab. Dr. Theo Araujo and Dr. Judith Möller were co-directing the lab.
+
+## Past Advisory Board
+Previous Advisory Board members were Dr. Susan Vermeer, Dr. Joanna Strycharz, and Dr. A. Marthe Möller.

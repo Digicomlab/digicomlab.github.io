@@ -1,6 +1,6 @@
 ---
 title: "What is Misinformation to You?"
-description: "An Ecologically Valid Approach to Citizen Perceptions of the Misinformation Crisis in the Context of Informational Uncertainty"
+## An Ecologically Valid Approach to Citizen Perceptions of the Misinformation Crisis in the Context of Informational Uncertainty
 ---
 
 

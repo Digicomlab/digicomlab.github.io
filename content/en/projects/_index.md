@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+title: "Home"
 description: ""
 ---
 

@@ -7,8 +7,7 @@ Researchers affiliated to the Digicomlab work on digital research methods and ai
 
 - AI in communication
 - Augmented and Virtual Reality Applications
-- Computational Text Analysis Methods (CTAM)
-- Automated Analysis of Visual Data
+- Automated Content Analysis
 - Conversational Agents and AI
 - Data Donation
 - Eye Tracking
@@ -16,4 +15,4 @@ Researchers affiliated to the Digicomlab work on digital research methods and ai
 - Experience Sampling Methods
 
 
-To support research on these methods, we fund projects through our Seed Funding Grants and our Thesis Grants.
+Below, we provide an overview of what the methods listed here entail and of projects within the lab that are working with or on the development of these methods.

@@ -40,7 +40,6 @@ en:
       name: "Seed Fundings"
       url: "/seedfunding/"
       weight: 1
-      post: "Some words"
       parent: "fundings"
     - identifier: "fundings-2"
       name: "Thesis Grant"

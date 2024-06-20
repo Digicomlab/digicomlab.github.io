@@ -12,6 +12,6 @@ Co-Director\
 Digicomlab\
 Roeterseilandcampus, University of Amsterdam
 {{< /card >}}
-{{< card >}}
+{{< /cards >}}
 
 Lab members meet regularly to discuss their work and to develop their skills using and studying digital research methods. The lab hosts workshops on various topics, for example, on general programming skills, agent-based modeling or using Virtual Reality for research. Furthermore, it connects researchers working at the Amsterdam School of Communication Research to other initiatives related to digital methods within and outside of the University of Amsterdam.

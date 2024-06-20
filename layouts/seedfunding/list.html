@@ -2,7 +2,11 @@
 {{ .Content }}
   {{ range .Pages }}
     <article>
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <h2><a href="{{ .Permalink }}">{{ .title }}</a></h2>
+      <h3><a href="{{ .Permalink }}">{{ .subtitle }}</a></h3>
+      <h3><a href="{{ .Permalink }}">{{ .authors }}</a></h3>
+
+
     </article>
   {{ end }}
 {{ end }}

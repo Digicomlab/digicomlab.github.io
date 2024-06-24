@@ -5,6 +5,7 @@ Date: 2022
 ---
 
 #### By Marthe Möller, Susan Vermeer, and Susanne Baumgartner 
+##### 2022
 
 The past years have seen a rise in studies investigating how user comments influence the experiences of social media users. The various studies that have been conducted on this topic so far all seem to be based on the same assumption, namely that comments are relevant in the sense that they actually discuss the main content that they accompany (e.g., a YouTube video, Instagram image). The present project tests this assumption by creating a tool that can detect the relevance of comments (i.e., whether or not a comment discusses the main content that it accompanies). Using comments written in response to music videos posted on YouTube, we trained a machine that can automatically classify comments. Scholars can use this machine to verify the assumption that the comments that they study are relevant (and hence, can influence how viewers experience social media content).
 

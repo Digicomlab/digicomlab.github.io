@@ -6,6 +6,7 @@ Date: 2024
 ---
 
 #### By Felicia Loecherbach & Laura Boeschoten
+##### 2024
 
 Messaging services such as WhatsApp potentially play a role for sharing
 political information via meso-spaces between public and private. However, it is

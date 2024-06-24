@@ -13,8 +13,8 @@ Augmented Reality enables consumers to try out (virtual) furniture in their own 
 In Virtual Reality, users are completely immersed into the computer simulated environment: they have the perception of being present in the virtual environment and not in their actual physical environment. Due to this strong sense of presence in the virtual world, it is thought that stimuli provided in this world elicit similar responses and behaviour as in real-life. Because of this, the technique has potential as a research tool for investigating effects of (traditional) media on affective and cognitive responses and behavior, but also as a means to convey messages through a virtual-world experience.
 
 
-The following projects are using/studying this method:
+The following project is using/studying this method:
 
 
-[Let's talk about climate change](https://digicomlab.github.io/seedfunding/3_2022_Meijers/)
+- [Let's talk about climate change](https://digicomlab.github.io/seedfunding/3_2022_Meijers/)
 

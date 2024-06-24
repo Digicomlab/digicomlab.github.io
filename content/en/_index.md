@@ -8,4 +8,4 @@ Lab members meet regularly to discuss their work and to develop their skills usi
 
 
 
-{{<img align="left" width="944" height="310" src="../profile_pic/ai.jpg">}}
+{{<img align="left" width="944" height="310" src="../profile_pic/lab.jpg">}}

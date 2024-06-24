@@ -5,8 +5,6 @@ description: ""
 
 Researchers affiliated to the Digicomlab work on digital research methods and aim to advance these methods to increase their usage within communication science. The methods that we focus on are:
 
-{{<img align="left" style="float:right" width="640" height="359" src="https://digicomlab.github.io/profile_pic/ai.jpg">}} 
-
 - [AI in communication](https://digicomlab.github.io/projects/00-ai/)
 - [Augmented and virtual reality applications](https://digicomlab.github.io/projects/01-vrar/)
 - [Automated content analysis (ACA)](https://digicomlab.github.io/projects/02-aca/)
@@ -18,4 +16,7 @@ Researchers affiliated to the Digicomlab work on digital research methods and ai
 
 
 A list of conference presentations and publications based on work done by members of the Digicomlab can be found [here](https://digicomlab.github.io/projects/08-refs/).
+
+
+{{<img align="left" style="float:right" width="640" height="359" src="https://digicomlab.github.io/profile_pic/methods.png">}} 
 

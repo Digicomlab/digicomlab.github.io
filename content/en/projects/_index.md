@@ -15,7 +15,8 @@ Researchers affiliated to the Digicomlab work on digital research methods and ai
 - [Physiological responses in communication](https://digicomlab.github.io/projects/06-physio/)
 
 
-A list of conference presentations and publications based on work done by members of the Digicomlab can be found [here](https://digicomlab.github.io/projects/methods/08-refs/).
+A list of conference presentations and publications based on work done by members of the Digicomlab can be found [here](https://digicomlab.github.io/projects/08-refs/).
 
 
-{{<img align="left" width="100" height="100" src="https://digicomlab.github.io/static/profile_pic/ai.jpg">}}
+{{<img align="left" width="100" height="100" src="https://digicomlab.github.io/profile_pic/ai.jpg">}}
+

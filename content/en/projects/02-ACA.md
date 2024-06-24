@@ -18,3 +18,6 @@ The following projects are using/studying this method:
 - [Understanding climate polarisation and depolarisation dynamics](https://digicomlab.github.io/seedfunding/3_2022_vaneck/)
 - [Validity of computational attitude and attitude strength measures for social media data](https://digicomlab.github.io/seedfunding/3_2022_strycharz/)
 - [Personality and susceptibility to political microtargeting](https://digicomlab.github.io/seedfunding/4_2021_zarouali/)
+
+
+{{<img style="float: right;" width="640" height="363" src="https://digicomlab.github.io/profile_pic/aca.jpg">}}

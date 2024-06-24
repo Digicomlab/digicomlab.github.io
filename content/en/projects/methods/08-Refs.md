@@ -1,13 +1,23 @@
 ---
 
-title: "Presentations and publications based on work done by members of the lab"
+title: "Presentations and publications"
 
 ---
 
+This page contains an overview of conference presentations and publications based on work by members of the Digicomlab:
+
+
+### 2024
 
 - Sungur, H., Van Berlo, Z. M. C., & Lüwa, L. M. (2024). Enhancing cardiopulmonary resuscitation training with mixed reality: Improving cardiopulmonary resuscitation performance and enjoyment. Cyberpsychology, Behavior, and Social Networking. Advance online publication.  https://doi.org/10.1089/cyber.2023.0411 
 
+
+### 2023
+
 - Möller, A. M., Vermeer, S. A. M., & Baumgartner, S. E. (2023). Cutting through the comment chaos: A Supervised Machine Learning approach to identifying relevant YouTube comments. Social Science Computer Review, 1-24. Advance online publication. https://doi.org/10.1177/08944393231173895
+
+
+### 2020
 
 - Araujo, T., Helberger, N., Kruikemeier, S., & de Vreese, C. H. (2020). In AI we trust? Perceptions about automated decision-making by artificial intelligence. AI & SOCIETY. https://doi.org/10.1007/s00146-019-00931-w
 
@@ -23,13 +33,16 @@ title: "Presentations and publications based on work done by members of the lab"
 
 - Maslowska, E.,  Ohme, J., & Segijn, C. (2020). Mobile vs. Desktop: Assessing Exposure and Effects of Branded Social Media Content with Eye Tracking. Paper presented at the 70th Annual International Communication Association Conference. Gold Coast, Australia. May 2020. 
 
-- Moeller, J., Loecherbach, F., & Helberger, N. (2020). Out of control? Understanding user agency in news recommendation systems. Paper presented at the Michigan Symposium on media and politics, Ann Arbor.
+- Möller, J., Loecherbach, F., & Helberger, N. (2020). Out of control? Understanding user agency in news recommendation systems. Paper presented at the Michigan Symposium on media and politics, Ann Arbor.
 
 - Mollen, S., Sumter, S.R., van der Waal, N., Kwakman, P., & van der Laan, N. (2020). The effects of virtual compared to real eating companion on unhealthy food intake. Paper presented at Etmaal van de Communicatiewetenschap, 2020, Amsterdam, The Netherlands.
 
 - Ohme, J., Araujo, T., de Vreese, C. H., & Piotrowski, J. T. (2020). Mobile data donations: Assessing self-report accuracy and sample biases with the iOS Screen Time function. Mobile Media & Communication, 21. https://doi.org/10.1177/2050157920959106
 
 - Ohme, J., Araujo, T., de Vreese, C.H., & Piotrowski J.T. (2020). How to use mobile data donations in an open science framework. Paper presented at the Etmaal van de Communicatiewetenschap, Amsterdam, The Netherlands.
+
+
+### 2019
 
 - Araujo, T., and Bol, N. (2019). From speaking like a person to being personal: The effects of personalised, regular interactions with conversational agents. Paper presented at the Human-Machine Communication Preconference, ICA Conference, Washington, USA
 
@@ -40,6 +53,9 @@ title: "Presentations and publications based on work done by members of the lab"
 - Loecherbach, F., & Trilling, D. (2019). 3bij3 – Developing a framework for researching recommender systems and their effects. Available at: https://osf.io/preprints/socarxiv/vw2dr/
 
 - Mollen, S., van der Laan, N., & Sumter, S.R. (2019). The effects of virtual compared to real eating companions on unhealthy food intake. Paper presented at 33rd Annual Conference of the European Health Psychology Society. Dubrovnik, Croatia.
+
+
+### 2018
 
 - Araujo, T.B., & Kollat, J. (2018). Communicating effectively about CSR on Twitter: The power of engaging strategies and storytelling elements. Internet Research
 
@@ -53,9 +69,12 @@ title: "Presentations and publications based on work done by members of the lab"
 
 - Van der Laan, L.N., Papies, E., Ly, A., Smeets, P.A.M. (2018) How health goal priming promotes healthy food choice: a virtual reality fMRI study. International Conference on Communication, Prague, Czech Republic, 2018
 
-- Van der Meer, G. L. A., Kroon, A. C., Verhoeven, P., & Jonkman, J. G. F. (2018). Mediatization and the disproportionate attention to negative news: The case of airplane crashes. Journalism Studies. doi:10.1080/1461670X.2018.1423632
+- Van der Meer, G. L. A., Kroon, A. C., Verhoeven, P., & Jonkman, J. G. F. (2018). Mediatization and the disproportionate attention to negative news: The case of airplane crashes. Journalism Studies. http://doi.org/10.1080/1461670X.2018.1423632
 
-- Araujo, T., Wonneberger, A., Neijens, P., & de Vreese, C. (2017). How much time do you spend online? Understanding and improving the accuracy of self-reported measures of internet use. Communication Methods and Measures, 11(3), 173-190. DOI: 10.1080/19312458.2017.1317337
+
+### 2017
+
+- Araujo, T., Wonneberger, A., Neijens, P., & de Vreese, C. (2017). How much time do you spend online? Understanding and improving the accuracy of self-reported measures of internet use. Communication Methods and Measures, 11(3), 173-190. http://doi.org/10.1080/19312458.2017.1317337
 
 - Bakker, B.N., Schumacher, G. and Rooduijn, M. (2017). Hot Politics: Physiological responses to political communication. Paper presented at the 2017 International Communication Association Meeting.
 
@@ -63,12 +82,15 @@ title: "Presentations and publications based on work done by members of the lab"
 
 - Bakker, B.N., Arceneaux, K. and Schumacher, G. (2017). Ideological differences in negativity bias? Evidence from four replication studies across two political contexts. Paper to be presented at the 2018 Midwest Political Science Association Meeting.
 
-- Burggraaff, C., & Trilling, D. (2017). Through a different gate: An automated content analysis of how online news and print news differ. Journalism. doi:10.1177/1464884917716699
+- Burggraaff, C., & Trilling, D. (2017). Through a different gate: An automated content analysis of how online news and print news differ. Journalism. http://doi.org/10.1177/1464884917716699
 
-- De Vreese, C. H., Boukes, M., Schuck, A., Vliegenthart, R., Bos, L., & Lelkes, Y. (2017). Linking survey and media content data: Opportunities, considerations, and pitfalls. Communication Methods and Measures, 11(4), 221-244. DOI: 10.1080/19312458.2017.1380175
+- De Vreese, C. H., Boukes, M., Schuck, A., Vliegenthart, R., Bos, L., & Lelkes, Y. (2017). Linking survey and media content data: Opportunities, considerations, and pitfalls. Communication Methods and Measures, 11(4), 221-244. http://doi.org/10.1080/19312458.2017.1380175
 
 - Smink, A. R., van Reijmersdal, E. A., van Noort, G., & Neijens, P. C. (2017). When virtuality becomes reality: Three underlying processes that explain persuasive consequences of augmented reality apps. Presented at International Conference on Research in Advertising, Ghent, Belgium.
 
-- De Vreese, C. H., & Neijens, P. (2016). Measuring media exposure in a changing communications environment. Communication Methods and Measures, 10(2-3), 69-80. DOI: 10.1080/19312458.2016.1150441
 
-- Ohme, J., Albæk, E., & de Vreese, C. H. (2016). Exposure research going mobile: A smartphone-based measurement of media exposure to political information in a convergent media environment. Communication Methods and Measures, 10(2-3), 135-148. DOI: 10.1080/19312458.2016.1150972
+### 2016
+
+- De Vreese, C. H., & Neijens, P. (2016). Measuring media exposure in a changing communications environment. Communication Methods and Measures, 10(2-3), 69-80. http://doi.org/10.1080/19312458.2016.1150441
+
+- Ohme, J., Albæk, E., & de Vreese, C. H. (2016). Exposure research going mobile: A smartphone-based measurement of media exposure to political information in a convergent media environment. Communication Methods and Measures, 10(2-3), 135-148. http://doi.org/10.1080/19312458.2016.1150972

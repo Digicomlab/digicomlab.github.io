@@ -7,17 +7,17 @@ title: "Presentations and publications"
 This page contains an overview of conference presentations and publications based on work by members of the Digicomlab:
 
 
-### 2024
+## 2024
 
 - Sungur, H., Van Berlo, Z. M. C., & Lüwa, L. M. (2024). Enhancing cardiopulmonary resuscitation training with mixed reality: Improving cardiopulmonary resuscitation performance and enjoyment. Cyberpsychology, Behavior, and Social Networking. Advance online publication.  https://doi.org/10.1089/cyber.2023.0411 
 
 
-### 2023
+## 2023
 
 - Möller, A. M., Vermeer, S. A. M., & Baumgartner, S. E. (2023). Cutting through the comment chaos: A Supervised Machine Learning approach to identifying relevant YouTube comments. Social Science Computer Review, 1-24. Advance online publication. https://doi.org/10.1177/08944393231173895
 
 
-### 2020
+## 2020
 
 - Araujo, T., Helberger, N., Kruikemeier, S., & de Vreese, C. H. (2020). In AI we trust? Perceptions about automated decision-making by artificial intelligence. AI & SOCIETY. https://doi.org/10.1007/s00146-019-00931-w
 
@@ -42,7 +42,7 @@ This page contains an overview of conference presentations and publications base
 - Ohme, J., Araujo, T., de Vreese, C.H., & Piotrowski J.T. (2020). How to use mobile data donations in an open science framework. Paper presented at the Etmaal van de Communicatiewetenschap, Amsterdam, The Netherlands.
 
 
-### 2019
+## 2019
 
 - Araujo, T., and Bol, N. (2019). From speaking like a person to being personal: The effects of personalised, regular interactions with conversational agents. Paper presented at the Human-Machine Communication Preconference, ICA Conference, Washington, USA
 
@@ -55,7 +55,7 @@ This page contains an overview of conference presentations and publications base
 - Mollen, S., van der Laan, N., & Sumter, S.R. (2019). The effects of virtual compared to real eating companions on unhealthy food intake. Paper presented at 33rd Annual Conference of the European Health Psychology Society. Dubrovnik, Croatia.
 
 
-### 2018
+## 2018
 
 - Araujo, T.B., & Kollat, J. (2018). Communicating effectively about CSR on Twitter: The power of engaging strategies and storytelling elements. Internet Research
 
@@ -72,7 +72,7 @@ This page contains an overview of conference presentations and publications base
 - Van der Meer, G. L. A., Kroon, A. C., Verhoeven, P., & Jonkman, J. G. F. (2018). Mediatization and the disproportionate attention to negative news: The case of airplane crashes. Journalism Studies. http://doi.org/10.1080/1461670X.2018.1423632
 
 
-### 2017
+## 2017
 
 - Araujo, T., Wonneberger, A., Neijens, P., & de Vreese, C. (2017). How much time do you spend online? Understanding and improving the accuracy of self-reported measures of internet use. Communication Methods and Measures, 11(3), 173-190. http://doi.org/10.1080/19312458.2017.1317337
 
@@ -89,7 +89,7 @@ This page contains an overview of conference presentations and publications base
 - Smink, A. R., van Reijmersdal, E. A., van Noort, G., & Neijens, P. C. (2017). When virtuality becomes reality: Three underlying processes that explain persuasive consequences of augmented reality apps. Presented at International Conference on Research in Advertising, Ghent, Belgium.
 
 
-### 2016
+## 2016
 
 - De Vreese, C. H., & Neijens, P. (2016). Measuring media exposure in a changing communications environment. Communication Methods and Measures, 10(2-3), 69-80. http://doi.org/10.1080/19312458.2016.1150441
 

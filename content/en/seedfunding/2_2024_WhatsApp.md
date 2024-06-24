@@ -1,8 +1,8 @@
 ---
 
-title: "Donate your chats!"
-## Combining two infrastructures to study the use of WhatsApp for sharing (political) news
-date: 2024
+Title: "Donate your chats!"
+Subtitle: "Combining two infrastructures to study the use of WhatsApp for sharing (political) news"
+Date: 2024
 ---
 
 #### By Felicia Loecherbach & Laura Boeschoten

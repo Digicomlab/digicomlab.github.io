@@ -14,7 +14,7 @@ Given that more and more communication happens online and is available in a digi
 The following projects are using/studying this method:
 
 
-- [The comment relevance detector project](https://digicomlab.github.io/seedfunding/3_2022_Moller/)
-- [Understanding climate polarisation and depolarisation dynamics](https://digicomlab.github.io/seedfunding/3_2022_VanEck/)
-- [Validity of computational attitude and attitude strength measures for social media data](https://digicomlab.github.io/seedfunding/3_2022_Strycharz/)
-- [Personality and susceptibility to political microtargeting](https://digicomlab.github.io/seedfunding/4_2021_Zarouali/)
+- [The comment relevance detector project](https://digicomlab.github.io/seedfunding/3_2022_moller/)
+- [Understanding climate polarisation and depolarisation dynamics](https://digicomlab.github.io/seedfunding/3_2022_vaneck/)
+- [Validity of computational attitude and attitude strength measures for social media data](https://digicomlab.github.io/seedfunding/3_2022_strycharz/)
+- [Personality and susceptibility to political microtargeting](https://digicomlab.github.io/seedfunding/4_2021_zarouali/)

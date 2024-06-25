@@ -3,7 +3,7 @@ title: "Research"
 description: ""
 ---
 
-{{<img style="text-align: right" width="357" height="129" src="https://digicomlab.github.io/profile_pic/methods.png">}} 
+![Artificial Intelligence](https://digicomlab.github.io/profile_pic/methods.png){: style="float: right"}
 
 Researchers affiliated to the Digicomlab work on digital research methods and aim to advance these methods to increase their usage within communication science. The methods that we focus on are:
 

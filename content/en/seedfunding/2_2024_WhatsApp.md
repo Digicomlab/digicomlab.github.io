@@ -4,9 +4,9 @@ Title: "Donate your chats!"
 Subtitle: "Combining two infrastructures to study the use of WhatsApp for sharing (political) news"
 Date: 2024
 ---
-
+###### 2024
 #### By Felicia Loecherbach & Laura Boeschoten
-##### 2024
+
 
 Messaging services such as WhatsApp potentially play a role for sharing
 political information via meso-spaces between public and private. However, it is
@@ -18,7 +18,7 @@ open-source infrastructures:
 [WhatsApp Explorer](https://arxiv.org/abs/2404.01328) to help respondents
 retrieve their own data and
 [PORT](https://joss.theoj.org/papers/10.21105/joss.05596) to donate that data to
-researchers. In a pilot study we will investigate whether and if so which links
+researchers. In a pilot study, we investigate whether and if so which links
 to news are being shared via WhatsApp.
 
 

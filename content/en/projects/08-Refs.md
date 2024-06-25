@@ -11,14 +11,14 @@ This page contains an overview of conference presentations and publications base
 
 - Sungur, H., Van Berlo, Z. M. C., & Lüwa, L. M. (2024). Enhancing cardiopulmonary resuscitation training with mixed reality: Improving cardiopulmonary resuscitation performance and enjoyment. Cyberpsychology, Behavior, and Social Networking. Advance online publication.  https://doi.org/10.1089/cyber.2023.0411 
 
-- Möller, A. M., Vermeer, S. A. M., & Baumgartner, S. E. (2024). [Cutting through the comment chaos: A Supervised Machine Learning approach to identifying relevant YouTube comments](https://digicomlab.github.io/seedfunding/3_2022_moller/). Social Science Computer Review 42(1), 162-185. https://doi.org/10.1177/08944393231173895
+- Möller, A. M., Vermeer, S. A. M., & Baumgartner, S. E. (2024). [Cutting through the comment chaos: A Supervised Machine Learning approach to identifying relevant YouTube comments](https://digicomlab.github.io/seedfunding/2022/2022_moller/). Social Science Computer Review 42(1), 162-185. https://doi.org/10.1177/08944393231173895
 
 
 ## 2023
 
 - Dekker, C. A., & Baumgartner, S. E. (2023). Is life brighter when your phone is not? The efficacy of a grayscale smartphone intervention addressing digital well-being. Mobile Media & Communication, https://doi.org/10.1177/20501579231212062
 
-- Meijers, M. H., Torfadóttir, R. H., Wonneberger, A., & Maslowska, E. (2023). [Experiencing climate change virtually: The effects of virtual reality on climate change related cognitions, emotions, and behavior](https://digicomlab.github.io/seedfunding/5_2020_meijers/). Environmental Communication, 17(6), 581-601. https://doi.org/10.1080/17524032.2023.2229043
+- Meijers, M. H., Torfadóttir, R. H., Wonneberger, A., & Maslowska, E. (2023). [Experiencing climate change virtually: The effects of virtual reality on climate change related cognitions, emotions, and behavior](https://digicomlab.github.io/seedfunding/2020/2020_meijers/). Environmental Communication, 17(6), 581-601. https://doi.org/10.1080/17524032.2023.2229043
 
 
 ## 2020

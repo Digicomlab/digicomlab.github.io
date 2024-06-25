@@ -18,6 +18,8 @@ This page contains an overview of conference presentations and publications base
 
 - Dekker, C. A., & Baumgartner, S. E. (2023). Is life brighter when your phone is not? The efficacy of a grayscale smartphone intervention addressing digital well-being. Mobile Media & Communication, https://doi.org/10.1177/20501579231212062
 
+- Meijers, M. H., Torfadóttir, R. H., Wonneberger, A., & Maslowska, E. (2023). [Experiencing climate change virtually: The effects of virtual reality on climate change related cognitions, emotions, and behavior](https://digicomlab.github.io/seedfunding/5_2020_meijers/). Environmental Communication, 17(6), 581-601. https://doi.org/10.1080/17524032.2023.2229043
+
 
 ## 2020
 

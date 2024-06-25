@@ -4,7 +4,7 @@ Title: "What is Misinformation to You?"
 Subtitle: "An Ecologically Valid Approach to Citizen Perceptions of the Misinformation Crisis in the Context of Informational Uncertainty"
 Date: 2024
 ---
-##### 2024
+###### 2024
 #### By Lina Buttgereit, Michael Hameleers, Damian Trilling, Katjana Gattermann, and Andreas Schuck
 
 

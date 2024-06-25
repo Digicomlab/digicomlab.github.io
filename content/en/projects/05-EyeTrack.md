@@ -13,5 +13,5 @@ Eye tracking is a method whereby individuals' eye movements are tracked during a
 The following project is using/studying this method:
 
 
-- [All eyes on them](https://digicomlab.github.io/seedfunding/2_2024_alleyesonthem/)
+- [All eyes on them](https://digicomlab.github.io/seedfunding/2024/2024_breves/)
 

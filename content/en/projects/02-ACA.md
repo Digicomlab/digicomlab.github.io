@@ -14,10 +14,13 @@ Given that more and more communication happens online and is available in a digi
 The following projects are using/studying this method:
 
 
-- [The comment relevance detector project](https://digicomlab.github.io/seedfunding/3_2022_moller/)
-- [Understanding climate polarisation and depolarisation dynamics](https://digicomlab.github.io/seedfunding/3_2022_vaneck/)
-- [Validity of computational attitude and attitude strength measures for social media data](https://digicomlab.github.io/seedfunding/3_2022_strycharz/)
-- [Personality and susceptibility to political microtargeting](https://digicomlab.github.io/seedfunding/4_2021_zarouali/)
+- [A cross-platform, multi-model investigation into political moral appeals](https://digicomlab.github.io/seedfunding/2023/2023_hopp/)
+- [Moved to comment](https://digicomlab.github.io/seedfunding/2023/2023_moller/)
+- [Facts to you, opinions to me](https://digicomlab.github.io/seedfunding/2023/2023_lin/)
+- [The comment relevance detector project](https://digicomlab.github.io/seedfunding/2022/2022_moller/)
+- [Understanding climate polarisation and depolarisation dynamics](https://digicomlab.github.io/seedfunding/2022/022_vaneck/)
+- [Validity of computational attitude and attitude strength measures for social media data](https://digicomlab.github.io/seedfunding/2022/2022_strycharz/)
+- [Personality and susceptibility to political microtargeting](https://digicomlab.github.io/seedfunding/2021/2021_zarouali/)
 
 
 {{<img style="float: right;" width="640" height="363" src="https://digicomlab.github.io/profile_pic/aca.jpg">}}

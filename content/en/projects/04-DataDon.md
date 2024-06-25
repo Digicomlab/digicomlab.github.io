@@ -14,7 +14,7 @@ The Digital Communication Methods Lab supports a set of projects to develop meth
 The following projects are using/studying this method:
 
 
-- [Donate your chats!](https://digicomlab.github.io/seedfunding/2_2024_whatsapp/)
-- [Understanding climate polarisation and depolarisation dynamics](https://digicomlab.github.io/seedfunding/3_2022_vaneck/)
-- [Exploring individuals' imagined social media affordances](https://digicomlab.github.io/seedfunding/3_2022_marschlich/)
+- [Donate your chats!](https://digicomlab.github.io/seedfunding/2024/2024_loecherbachp/)
+- [Understanding climate polarisation and depolarisation dynamics](https://digicomlab.github.io/seedfunding/2022/2022_vaneck/)
+- [Exploring individuals' imagined social media affordances](https://digicomlab.github.io/seedfunding/2022/2022_marschlich/)
 

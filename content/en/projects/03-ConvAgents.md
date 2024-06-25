@@ -11,4 +11,10 @@ Artificial Intelligence (AI) and related technologies are reshaping our communic
 Given the growing levels of sophistication and adoption of these agents, the Digital Communication Lab focuses on innovative research with (disembodied) conversational agents, including the content, causes and consequences of interactions with AI in the shape of conversational agents across different areas of communication. Methodologically, the lab also explores the potential of actual conversational agents as data collection tools.
 
 
+The following project is using/studying this method:
+
+
+- [Personalization over-time or over-time personalization?](https://digicomlab.github.io/seedfunding/2023/2023_ischen/)
+
+
 {{<img style="float: right;" width="640" height="427" src="https://digicomlab.github.io/profile_pic/nao.png">}}

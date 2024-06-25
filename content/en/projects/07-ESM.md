@@ -11,6 +11,6 @@ Experience Sampling Methods are methods whereby individuals are asked to report 
 The following projects are using/studying this method:
 
 
-- [What is misinformation to you?](https://digicomlab.github.io/seedfunding/2_2024_whatismisinformationtoyou/)
-- [Parasocial relationship with social media influencers and young women's body perception](https://digicomlab.github.io/seedfunding/3_2022_breves/)
-- [Short but still valid](https://digicomlab.github.io/seedfunding/3_2022_wolfers/)
+- [What is misinformation to you?](https://digicomlab.github.io/seedfunding/2024/2024_buttgereit/)
+- [Parasocial relationship with social media influencers and young women's body perception](https://digicomlab.github.io/seedfunding/2022/2022_breves/)
+- [Short but still valid](https://digicomlab.github.io/seedfunding/2022/2022_wolfers/)

@@ -14,6 +14,11 @@ This page contains an overview of conference presentations and publications base
 - Möller, A. M., Vermeer, S. A. M., & Baumgartner, S. E. (2024). [Cutting through the comment chaos: A Supervised Machine Learning approach to identifying relevant YouTube comments](https://digicomlab.github.io/seedfunding/3_2022_moller/). Social Science Computer Review 42(1), 162-185. https://doi.org/10.1177/08944393231173895
 
 
+## 2023
+
+- Dekker, C. A., & Baumgartner, S. E. (2023). Is life brighter when your phone is not? The efficacy of a grayscale smartphone intervention addressing digital well-being. Mobile Media & Communication, https://doi.org/10.1177/20501579231212062
+
+
 ## 2020
 
 - Araujo, T., Helberger, N., Kruikemeier, S., & de Vreese, C. H. (2020). In AI we trust? Perceptions about automated decision-making by artificial intelligence. AI & SOCIETY. https://doi.org/10.1007/s00146-019-00931-w

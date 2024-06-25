@@ -11,10 +11,7 @@ This page contains an overview of conference presentations and publications base
 
 - Sungur, H., Van Berlo, Z. M. C., & Lüwa, L. M. (2024). Enhancing cardiopulmonary resuscitation training with mixed reality: Improving cardiopulmonary resuscitation performance and enjoyment. Cyberpsychology, Behavior, and Social Networking. Advance online publication.  https://doi.org/10.1089/cyber.2023.0411 
 
-
-## 2023
-
-- Möller, A. M., Vermeer, S. A. M., & Baumgartner, S. E. (2023). Cutting through the comment chaos: A Supervised Machine Learning approach to identifying relevant YouTube comments. Social Science Computer Review, 1-24. Advance online publication. https://doi.org/10.1177/08944393231173895
+- Möller, A. M., Vermeer, S. A. M., & Baumgartner, S. E. (2024). Cutting through the comment chaos: A Supervised Machine Learning approach to identifying relevant YouTube comments. Social Science Computer Review 42(1), 162-185. https://doi.org/10.1177/08944393231173895
 
 
 ## 2020

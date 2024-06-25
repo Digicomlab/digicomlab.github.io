@@ -9,4 +9,4 @@ description: ""
 
 The lab organises several events to connect researchers working on/with digital research methods. An overview of events organised by the lab can be found here.
 
-- [June 2024 - Digital Methods Fair](https://digicomlab.github.io/main/content/en/events/fair/)
+- [June 2024 - Digital Methods Fair](../events/fair/)

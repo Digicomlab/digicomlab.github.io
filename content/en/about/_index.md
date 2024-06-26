@@ -3,7 +3,7 @@ title: "People"
 description: ""
 ---
 
-The Digicomlab is managed by its daily management team consisting of the lab's co-directors Dr. Joanna Strycharz and Dr. A. Marthe Möller, and Dr. Justin Chun-ting Ho who works as a postdoctoral researcher at the lab. The team is helped by the lab's Advisory Board, consisting of four members each representing one of the main research domains within communication science at the University of Amsterdam.
+The Digicomlab is managed by its daily management team consisting of the lab's co-directors [Dr. Joanna Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html) and [Dr. A. Marthe Möller](https://www.uva.nl/en/profile/m/o/a.m.moller/a.m.moller.html), and [Dr. Justin Chun-ting Ho](https://www.uva.nl/en/profile/h/o/j.c.ho/j.c.ho.html) who works as a postdoctoral researcher at the lab. The team is helped by the lab's Advisory Board, consisting of four members each representing one of the main research domains within communication science at the University of Amsterdam.
 
 
 
@@ -50,4 +50,4 @@ Youth & Media Entertainment: [Dr. Lara Wolfers](https://www.uva.nl/en/profile/w/
 The Digital Communication Methods Lab started as an initiative of the RPA Communication. [Prof. Claes de Vreese](https://claesdevreese.wordpress.com/) was the director of the RPA Communication, and of the Digital Communication Methods Lab. [Prof. Theo Araujo](https://theoaraujo.eu/) and [Prof. Judith Möller](https://leibniz-hbi.de/en/staff/judith-moeller) were co-directing the lab.
 
 ## Past Advisory Board
-Previous Advisory Board members were [Dr. Susan Vermeer](https://www.wur.nl/en/persons/susan-vermeer.htm), Dr. Joanna Strycharz, and Dr. A. Marthe Möller.
+Previous Advisory Board members were [Dr. Susan Vermeer](https://www.wur.nl/en/persons/susan-vermeer.htm), [Dr. Joanna Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html), and [Dr. A. Marthe Möller](https://www.uva.nl/en/profile/m/o/a.m.moller/a.m.moller.html).

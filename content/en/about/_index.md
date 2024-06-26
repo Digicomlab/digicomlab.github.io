@@ -47,7 +47,7 @@ Youth & Media Entertainment: [Dr. Lara Wolfers](https://www.uva.nl/en/profile/w/
 [Dr. Rebekah Tromble](https://smpa.gwu.edu/rebekah-tromble) and [Dr. Jakob Ohme](https://www.weizenbaum-institut.de/portrait/p/jakob-ohme/#page=1&sort=date) are Fellows of the Digital Communication Methods Lab.
 
 ## Past Board
-The Digital Communication Methods Lab started as an initiative of the RPA Communication. [Prof. Claes de Vreese](https://claesdevreese.wordpress.com/) was the director of the RPA Communication, and of the Digital Communication Methods Lab. [Dr. Theo Araujo](https://theoaraujo.eu/) and Dr. Judith Möller were co-directing the lab.
+The Digital Communication Methods Lab started as an initiative of the RPA Communication. [Prof. Claes de Vreese](https://claesdevreese.wordpress.com/) was the director of the RPA Communication, and of the Digital Communication Methods Lab. [Prof. Theo Araujo](https://theoaraujo.eu/) and [Prof. Judith Möller](https://leibniz-hbi.de/en/staff/judith-moeller) were co-directing the lab.
 
 ## Past Advisory Board
 Previous Advisory Board members were [Dr. Susan Vermeer](https://www.wur.nl/en/persons/susan-vermeer.htm), Dr. Joanna Strycharz, and Dr. A. Marthe Möller.

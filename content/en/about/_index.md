@@ -27,7 +27,7 @@ Youth & Media Entertainment, ASCoR
 {{< card >}}
 #### [Justin Chun-ting Ho](https://www.uva.nl/en/profile/h/o/j.c.ho/j.c.ho.html)
 ![](../profile_pic/jcho.jpg)
-Postdoctorial Researcher\
+Postdoctoral Researcher\
 Political Communication & Journalism, ASCoR
 {{< /card >}}
 {{< /cards >}}

@@ -11,21 +11,21 @@ The Digicomlab is managed by its daily management team consisting of the lab's c
 
 {{< cards >}}
 {{< card >}}
-#### Joanna Strycharz
+#### [Joanna Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html)
 ![](../profile_pic/jstrycharz.jpg)
 Co-Director\
 Assistant Professor\
 Persuasive Communication, ASCoR
 {{< /card >}}
 {{< card >}}
-#### Marthe Möller
+#### [Marthe Möller](https://www.uva.nl/en/profile/m/o/a.m.moller/a.m.moller.html)
 ![](../profile_pic/ammoller.jpg)
 Co-Director\
 Assistant Professor\
 Youth & Media Entertainment, ASCoR
 {{< /card >}}
 {{< card >}}
-#### Justin Chun-ting Ho
+#### [Justin Chun-ting Ho](https://www.uva.nl/en/profile/h/o/j.c.ho/j.c.ho.html)
 ![](../profile_pic/jcho.jpg)
 Postdoctorial Researcher\
 Political Communication & Journalism, ASCoR
@@ -33,7 +33,7 @@ Political Communication & Journalism, ASCoR
 {{< /cards >}}
 
 ## Advisory Board Members
-Members of each Program Group of the Amsterdam School of Communication Research are part of the Advisory Board for the Digital Communication Methods Lab. The current Board Members are:
+Members of each Program Group of the [Amsterdam School of Communication Research](https://ascor.uva.nl/) are part of the Advisory Board for the Digital Communication Methods Lab. The current Board Members are:
 
 Corporate Communication: [Dr. Mark Boukes](https://www.uva.nl/profiel/b/o/m.boukes/m.boukes.html)
 

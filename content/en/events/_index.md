@@ -4,18 +4,14 @@ description: ""
 ---
 
 
-This is the introduction to my document. Here's an image that should float to the right.
+{{< rawhtml >}}
+<img style="float: right; margin: 0 0 10px 10px;" width="384" height="203" src="https://digicomlab.github.io/profile_pic/panel.jpg" alt="Floating Image">
+{{< /rawhtml >}}
 
-{{<img class="float-right" width="384" height="203" src="https://digicomlab.github.io/profile_pic/panel.jpg" alt="Floating Image">
+This is an example paragraph. The image should float to the right and the text should wrap around it.
 
-As you can see, the text continues here and should wrap around the image. Adding more text will show how the wrapping works.
+More text to demonstrate the text wrapping around the image. This should wrap nicely around the floated image to the right.
 
-<style>
-    .float-right {
-        float: right;
-        margin: 0 0 10px 10px; /* Adds some space around the image */
-    }
-</style>}}
 
 
 The lab organises several events to connect researchers working on/with digital research methods. An overview of events organised by the lab can be found here.

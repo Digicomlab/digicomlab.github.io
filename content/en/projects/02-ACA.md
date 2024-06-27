@@ -4,6 +4,7 @@ title: "Automated Content Analysis (ACA)"
 
 ---
 
+{{< floatimageright src="https://digicomlab.github.io/profile_pic/aca.jpg" alt="Digital Methods" width="384" height="203" >}}
 
 
 Automated Content Analysis (ACA) refers to a collection of techniques used to automatically analyze data. Because our discipline often works with texts, the term Computational Text Analysis Methods (CTAM) is also often used. Yet, while communication scholars often work with text, there is an increased focus on applying computational methods to the analysis of images as these take on a predominant role on social media.
@@ -22,5 +23,3 @@ The following projects are using/studying this method:
 - [Validity of computational attitude and attitude strength measures for social media data](https://digicomlab.github.io/seedfunding/2022/2022_strycharz/)
 - [Personality and susceptibility to political microtargeting](https://digicomlab.github.io/seedfunding/2021/2021_zarouali/)
 
-
-{{<img style="float: right;" width="640" height="363" src="https://digicomlab.github.io/profile_pic/aca.jpg">}}

@@ -3,7 +3,7 @@ title: "Research"
 description: ""
 ---
 
-{{< floatimageright src="https://digicomlab.github.io/profile_pic/methods.png" alt="Floating Image" width="384" height="203" >}}
+{{< floatimageright src="https://digicomlab.github.io/profile_pic/methods.png" alt="Digital Methods" width="384" height="203" >}}
 
 Researchers affiliated to the Digicomlab work on digital research methods and aim to advance these methods to increase their usage within communication science. The methods that we focus on are:
 

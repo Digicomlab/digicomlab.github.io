@@ -4,8 +4,7 @@ title: "Augmented and Virtual Reality Applications"
 
 ---
 
-
-{{<img style="float: right;" width="320" height="320" src="https://digicomlab.github.io/profile_pic/vr.png">}}
+{{< floatimageleft src="https://digicomlab.github.io/profile_pic/vr.png" alt="Artificial Intelligence" width="384" height="203" >}}
 
 Virtual (VR) and Augmented Reality (VR) are novel techniques which provide an immersive experience to the user. Whereas in VR the real world is completely replaced for a virtual one, in AR virtual aspects are added to the real-world environment.
 

@@ -10,13 +10,13 @@ The Digicomlab is managed by its daily management team consisting of the lab's c
 ## Current Team
 
 {{< cards >}}
-{{< card >}}
-#### [Joanna Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html)
+[{{< card >}}
+#### Joanna Strycharz
 ![](../profile_pic/jstrycharz.jpg)
 Co-Director\
 Assistant Professor\
 Persuasive Communication, ASCoR
-{{< /card >}}
+{{< /card >}}](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html)
 {{< card >}}
 #### [Marthe Möller](https://www.uva.nl/en/profile/m/o/a.m.moller/a.m.moller.html)
 ![](../profile_pic/ammoller.jpg)

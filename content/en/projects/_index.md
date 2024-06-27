@@ -16,7 +16,7 @@ Researchers affiliated to the Digicomlab work on digital research methods and ai
 
 A list of conference presentations and publications based on work done by members of the Digicomlab can be found [here](https://digicomlab.github.io/projects/08-refs/).
 
-{{<img align="left" width="1382" height="382" src="https://digicomlab.github.io/profile_pic/methods.png">}}
+{{<img align="left" width="1106" height="306" src="https://digicomlab.github.io/profile_pic/methods.png">}}
 
 
 

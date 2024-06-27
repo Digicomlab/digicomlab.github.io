@@ -4,9 +4,7 @@ description: ""
 ---
 
 
-{{< rawhtml >}}
-<img style="float: right; margin: 0 0 10px 10px;" width="384" height="203" src="https://digicomlab.github.io/profile_pic/panel.jpg" alt="Floating Image">
-{{< /rawhtml >}}
+{{<img class="float-right" width="384" height="203" src="https://digicomlab.github.io/profile_pic/panel.jpg" alt="Floating Image">}}
 
 This is an example paragraph. The image should float to the right and the text should wrap around it.
 

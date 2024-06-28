@@ -2,8 +2,6 @@
 title: "Coming Soon - Evaluating algorithmic systems on online platforms: Knowledge 
 gaps and structural problem"
 date: 2024-09-12
-hideDate: true
-
 ---
 
 Do social media algorithms contribute to the spread of misinformation? Does YouTube radicalize its users? Are Google search results fostering gender biases? These are the kind of questions that research evaluating algorithmic systems - often called algorithm auditing - is trying to address. In this talk taking place in September, key findings of such work will be highlighted. Do social media hamper pro-democratic mobilization in autocracies? Are they promoting religious violence and fostering homophobia? These are the kind of questions that research in the field largely or fully neglects. At the center of this talk will be such knowledge gaps in the field. We will discuss why these knowledge gaps are important, how they are related to the structural problems of research in the field, and what we could do to start closing them.

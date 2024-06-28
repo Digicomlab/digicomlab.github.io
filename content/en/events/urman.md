@@ -1,5 +1,5 @@
 ---
-title: "Coming Soon - Evaluating algorithmic systems on online platforms: knowledge 
+title: "Coming Soon - Evaluating algorithmic systems on online platforms: Knowledge 
 gaps and structural problems Aleksandra Urman"
 date: 2024-09-12
 hideDate: true

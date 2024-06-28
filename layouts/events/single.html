@@ -5,10 +5,5 @@
 {{- $hideDate := .Params.hideDate | default false }}
 
 {{- partial "blog/byline.html" . }}
-
-{{ if not (or (.Param "hideDate") false) }}
-    <p>{{ $date }}</p>
-
-
 {{ .Content }}
 {{ end }}

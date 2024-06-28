@@ -1,7 +1,7 @@
 ---
 title: "Coming Soon: Evaluating algorithmic systems on online platforms: knowledge 
 gaps and structural problems Aleksandra Urman"
-date: 2024-09-12
+date: 2024-09
 ---
 
 {{< floatimageright src="https://digicomlab.github.io/profile_pic/algorithm.jpg" alt="Events" width="270" height="203" >}}

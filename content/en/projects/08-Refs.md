@@ -13,6 +13,10 @@ This page contains an overview of conference presentations and publications base
 
 - Möller, A. M., Vermeer, S. A. M., & Baumgartner, S. E. (2024). [Cutting through the comment chaos: A Supervised Machine Learning approach to identifying relevant YouTube comments](https://digicomlab.github.io/seedfunding/2022/2022_moller/). Social Science Computer Review 42(1), 162-185. https://doi.org/10.1177/08944393231173895
 
+- Van Hoof, M., Meppelink, C. S., Moeller, J., & Trilling, D. (2024). Searching differently? How political attitudes impact search queries about political issues. New Media & Society, 26(7), 3728-3750. https://doi.org/10.1177/14614448221104405
+
+- Van Hoof, M., Trilling, D., Meppelink, C., Möller, J., & Loecherbach, F. (2024). Googling Politics? Comparing Five Computational Methods to Identify Political and News-related Searches from Web Browser Histories. Communication Methods and Measures, 1-27. https://doi.org/10.1080/19312458.2024.2363776
+
 
 ## 2023
 

@@ -1,9 +1,14 @@
 {{ define "main" }}
-{{- $date := .Date.Format "Monday, January 1, 2006" }}
-{{- $allAuthors := .Site.Data.authors }}
-{{- $author := .Params.author }}
+    {{- $date := .Date.Format "Monday, January 1, 2006" }}
+    {{- $allAuthors := .Site.Data.authors }}
+    {{- $author := .Params.author }}
 
-{{- partial "blog/byline.html" . }}
-{{ .Content }}
+    {{- partial "blog/byline.html" . }}
+
+    {{ if not .Params.hideDate }}
+        <p>{{ $date }}</p>
+    {{ end }}
+
+    {{ .Content }}
 
 {{ end }}

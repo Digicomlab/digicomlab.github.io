@@ -2,10 +2,10 @@
 
 title: "Algorithmic Ranking on YouTube"
 subtitle: "Algorithmic Ranking of Divisive Expressions in YouTube User Comments"
-date: 2024
+date: Semester 2, academic year 2023/2024
 ---
 
-###### 2024
+###### Semester 2, academic year 2023/2024
 #### By Ellen Linnert
 
 Despite its popularity, YouTube has gained a reputation for fostering toxic communication through its affordances (Alexander, 2018; Munn, 2020). This echoes general concerns that social media sites could hinder deliberative democratic communication processes (Pfetsch, 2020). However, the role of social media in facilitating certain discourse dynamics remains unclear. Algorithms that have the power to structure discourse on a platform and to encourage expressive behaviors by ranking user comments (e.g., YouTube’s “top comment” algorithm) are still greatly understudied. 

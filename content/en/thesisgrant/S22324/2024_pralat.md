@@ -2,10 +2,10 @@
 
 title: "Feeling Understood by AI"
 subtitle: "How Empathy Shapes Trust and Influences Patronage Intentions in Conversational AI"
-date: 2024
+date: Semester 2, academic year 2023/2024
 ---
 
-###### 2024
+###### Semester 2, academic year 2023/2024
 #### By Nele Pralat
 
 As AI applications such as ChatGPT or MetaAI continue to advance and integrate into various online spaces, their touchpoints with daily life are growing with some AI’s offering advice, purchase recommendations and more. Yet, in proportion to AI’s growing presence, there is relatively little research focusing on the implications of us interacting with AI. Understanding the nuances of how we interact with AI as a social actor, particularly with AI as an empathetic entity, remains unexplored. However, this is especially relevant when considering the potential of AI not just as a tool, but as an entity capable of influencing trust and decision-making, that is becoming increasingly more challenging to distinguish from human interaction partners.

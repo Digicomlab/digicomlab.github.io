@@ -1,10 +1,10 @@
 ---
 title: "Candidate Visual Portrayals in the 2020 US Election on YouTube"
 subtitle: "'Candidate Visual Portrayals in the 2020 US Election on YouTube: An Automated Visual Content Analysis'"
-date: 2024
+date: Semester 2, academic year 2023/2024
 ---
 
-###### 2024
+###### Semester 2, academic year 2023/2024
 #### By Eoghan O'Neill
 
 Constructing an image that resonates with voters is a major focus for any modern political campaign. A recent explosion of visual Communication Science studies reflects this. The bulk of these have considered how candidates visually frame themselves on their personal social media accounts. The sustained importance of the broader news media however means that candidates can never have complete control of their image. The image production process consists of multiple stages within which editors, journalists, and other news producers attempt to influence how the public sees a candidate. With the expansion of digital media, the number of these news producers has diversified but the dynamics of visual framing in this new diversified context is not understood. This paper then explores the visual framing of candidates during the 2020 US election within the context of YouTube. A major source of news for US adults, YouTube is a fitting place to investigate this question as it has a large community of independent and mainstream news producers. Just as shifts in the campaign and media environment require us to pose new questions, so to do they require new methodologies. To adequately process the large amount of visual data posted to YouTube during an election, this paper takes an automated content analysis approach. First, representative frames from videos will be analysed for the presence of the two candidates using Python’s facial recognition library. Then, the manifest elements of visual frames will be analysed using the Contrastive Image Language Processing (CLIP) model.

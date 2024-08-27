@@ -1,11 +1,12 @@
 ---
-title: "Coming soon - Lecture on algorithmic systems on online platforms (by Aleksandra Urman)"
-date: 2024-09-12
+title: "Workshop on Agent-Based Modeling using NetLogo"
+date: 2024-05-21
 ---
 
-{{< floatimageright src="https://digicomlab.github.io/profile_pic/blueprint.jpg" alt="Events" width="270" height="203" >}}
 
-Do social media algorithms contribute to the spread of misinformation? Does YouTube radicalize its users? Are Google search results fostering gender biases? These are the kind of questions that research evaluating algorithmic systems (or: algorithm auditing) is trying to address. In this talk, taking place in September, key findings of such work will be highlighted.
+{{< floatimageleft src="https://digicomlab.github.io/profile_pic/agentbasedmodeling.jpg" alt="Events" width="422" height="223" >}}
 
-[Aleksandra Urman](https://www.ifi.uzh.ch/en/scg/people/urman.html) is a postdoctoral researcher at the Department of Informatics at the University of Zurich. She studies how information technologies can affect socio-political processes across different national contexts. Her work focuses on social media-based political mobilisation and polarisation, radicalisation, and the effects of algorithmic systems on political information distribution in digital environments. 
+Taught by [Daniel Mayerhoff](https://www.uva.nl/en/profile/m/a/d.m.mayerhoffer/d.m.mayerhoffer.html), the Digicomlab hosted a workshop providing a soft introduction to agent-based modeling using the user-friendly software [NetLogo](http://ccl.northwestern.edu/netlogo/). The workshop was aimed at social scientists without extensive programming knowledge seeking to use simulated data alongside empirical research.
+
+Social simulations can be used at the hypothesis formation stage, applied for analyzing cases that are difficult to study in an ethically acceptable way, or can help to fill gaps in the causal inferences. Hence, they are increasingly popular among social scientists and can be a valuable tool to add to their toolkit! 
 

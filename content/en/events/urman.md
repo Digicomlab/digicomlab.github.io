@@ -1,6 +1,6 @@
 ---
 title: "Coming soon - Lecture on algorithmic systems on online platforms (by Aleksandra Urman)"
-date: 2024-09-12
+date: 2024-08-12
 ---
 
 

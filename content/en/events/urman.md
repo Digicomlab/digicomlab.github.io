@@ -1,5 +1,5 @@
 ---
-title: "Workshop on Agent-Based Modeling using NetLogo"
+title: "Coming soon - Lecture on algorithmic systems on online platforms (by Aleksandra Urman)"
 date: 2024-05-21
 ---
 

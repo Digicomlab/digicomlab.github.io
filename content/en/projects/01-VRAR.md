@@ -18,5 +18,5 @@ The following project is using/studying this method:
 
 - [Let's talk about climate change](https://digicomlab.github.io/seedfunding/2022/2022_meijers/)
 - [Let's get emotional](https://digicomlab.github.io/seedfunding/2022/2020_meijers/)
-- [Diving into sustainability](https://digicomlab.github.io/seedfunding/2022/2020_sungur/)
+- [Diving into sustainability](https://digicomlab.github.io/seedfunding/2020/2020_sungur/)
 

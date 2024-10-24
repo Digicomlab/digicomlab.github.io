@@ -50,9 +50,12 @@ Advisory Board Member\
 Associate Professor\
 Corporate Communication, ASCoR
 {{< /card >}}
+{{< /cards >}}
+
+{{< cards >}}
 {{< card >}}
 #### Saurabh Khanna
-![](../profile_pic/anonymous.png)
+![](../profile_pic/khanna.png)
 Assistant Professor\
 Youth and Media Entertainment, ASCoR
 {{< /card >}}

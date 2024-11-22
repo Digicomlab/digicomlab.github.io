@@ -1,5 +1,5 @@
 ---
-title: "On the effects of AI media (lecture by Shyam Sundar)"
+title: "Lecture on the effects of AI media (by Shyam Sundar)"
 date: 2022-05-19
 ---
 

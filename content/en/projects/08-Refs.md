@@ -9,7 +9,7 @@ This page contains an overview of conference presentations and publications base
 
 ## 2024
 
-- Boukes, M. (2024). Deliberation in online political talk: exploring interactivity, diversity, rationality, and incivility in the public spheres surrounding news vs. satire. Journal of Communication, jqae038. https://doi.org/10.1093/joc/jqae038
+- Boukes, M. (2024). Deliberation in online political talk: exploring interactivity, diversity, rationality, and incivility in the public spheres surrounding news vs. satire. Journal of Communication, jqae038. https://doi.org/10.1093/joc/jqae038. This publication resulted from the project [Modeling the Temporal Dynamics of the Deliberative Quality in Online Debate](https://digicomlab.github.io/seedfunding/2020/2020_boukes/)
 
 - Sungur, H., Van Berlo, Z. M. C., & Lüwa, L. M. (2024). Enhancing cardiopulmonary resuscitation training with mixed reality: Improving cardiopulmonary resuscitation performance and enjoyment. Cyberpsychology, Behavior, and Social Networking. Advance online publication.  https://doi.org/10.1089/cyber.2023.0411 
 

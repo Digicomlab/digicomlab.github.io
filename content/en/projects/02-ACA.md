@@ -22,4 +22,5 @@ The following projects are using/studying this method:
 - [Understanding climate polarisation and depolarisation dynamics](https://digicomlab.github.io/seedfunding/2022/022_vaneck/)
 - [Validity of computational attitude and attitude strength measures for social media data](https://digicomlab.github.io/seedfunding/2022/2022_strycharz/)
 - [Personality and susceptibility to political microtargeting](https://digicomlab.github.io/seedfunding/2021/2021_zarouali/)
+- [Modeling the Temporal Dynamics of the Deliberative Quality in Online Debate](https://digicomlab.github.io/seedfunding/2020/2020_boukes/)
 

@@ -33,7 +33,7 @@ This page contains an overview of conference presentations and publications base
 
 ## 2021
 
-- Boukes, M., Chu, X., Noon, M. F. A., Liu, R., Araujo, T., & Kroon, A. C. (2021). Comparing user-content interactivity and audience diversity across news and satire: differences in online engagement between satire, regular news and partisan news. Journal of Information Technology & Politics, 19(1), 98–117. https://doi.org/10.1080/19331681.2021.1927928
+- Boukes, M., Chu, X., Noon, M. F. A., Liu, R., Araujo, T., & Kroon, A. C. (2021). Comparing user-content interactivity and audience diversity across news and satire: differences in online engagement between satire, regular news and partisan news. Journal of Information Technology & Politics, 19(1), 98–117. https://doi.org/10.1080/19331681.2021.1927928 This publication resulted from the project [Modeling the Temporal Dynamics of the Deliberative Quality in Online Debate](https://digicomlab.github.io/seedfunding/2020/2020_boukes/)
 
 
 ## 2020

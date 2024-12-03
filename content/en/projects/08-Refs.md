@@ -31,6 +31,11 @@ This page contains an overview of conference presentations and publications base
 - Meijers, M. H., Torfadóttir, R. H., Wonneberger, A., & Maslowska, E. (2023). [Experiencing climate change virtually: The effects of virtual reality on climate change related cognitions, emotions, and behavior](https://digicomlab.github.io/seedfunding/2020/2020_meijers/). Environmental Communication, 17(6), 581-601. https://doi.org/10.1080/17524032.2023.2229043
 
 
+## 2021
+
+- Boukes, M., Chu, X., Noon, M. F. A., Liu, R., Araujo, T., & Kroon, A. C. (2021). Comparing user-content interactivity and audience diversity across news and satire: differences in online engagement between satire, regular news and partisan news. Journal of Information Technology & Politics, 19(1), 98–117. https://doi.org/10.1080/19331681.2021.1927928
+
+
 ## 2020
 
 - Araujo, T., Helberger, N., Kruikemeier, S., & de Vreese, C. H. (2020). In AI we trust? Perceptions about automated decision-making by artificial intelligence. AI & SOCIETY. https://doi.org/10.1007/s00146-019-00931-w

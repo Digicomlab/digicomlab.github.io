@@ -44,10 +44,10 @@ Assistant Professor\
 Persuasive Communication, ASCoR
 {{< /card >}}
 {{< card >}}
-#### Mark Boukes
-![](../profile_pic/boukes.png)
+#### Olga Eisele
+![](../profile_pic/eisele.jpg)
 Advisory Board Member\
-Associate Professor\
+Assistant Professor\
 Corporate Communication, ASCoR
 {{< /card >}}
 {{< /cards >}}
@@ -74,4 +74,4 @@ Political Communication and Journalism, ASCoR
 The Digital Communication Methods Lab started as an initiative of the RPA Communication. [Prof. Claes de Vreese](https://claesdevreese.wordpress.com/) was the director of the RPA Communication, and of the Digital Communication Methods Lab. [Prof. Theo Araujo](https://theoaraujo.eu/) and [Prof. Judith Möller](https://leibniz-hbi.de/en/staff/judith-moeller) were co-directing the lab.
 
 ## Past Advisory Board
-Previous Advisory Board members were [Dr. Lara Wolfers](https://www.uva.nl/en/profile/w/o/l.n.wolfers/l.n.wolfers.html), [Dr. Frederic Hopp](https://fhopp.github.io/), [Dr. Susan Vermeer](https://www.wur.nl/en/persons/susan-vermeer.htm), [Dr. Joanna Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html), and [Dr. A. Marthe Möller](https://www.uva.nl/en/profile/m/o/a.m.moller/a.m.moller.html).
+Previous Advisory Board members were [Dr. Mark Boukes](https://www.uva.nl/en/profile/b/o/m.boukes/m.boukes.html), [Dr. Lara Wolfers](https://www.uva.nl/en/profile/w/o/l.n.wolfers/l.n.wolfers.html), [Dr. Frederic Hopp](https://fhopp.github.io/), [Dr. Susan Vermeer](https://www.wur.nl/en/persons/susan-vermeer.htm), [Dr. Joanna Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html), and [Dr. A. Marthe Möller](https://www.uva.nl/en/profile/m/o/a.m.moller/a.m.moller.html).

@@ -3,7 +3,7 @@ title: "People"
 description: ""
 ---
 
-The Digicomlab is managed by its daily management team consisting of the lab's co-directors [Dr. Joanna Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html) and [Dr. A. Marthe Möller](https://www.uva.nl/en/profile/m/o/a.m.moller/a.m.moller.html), and [Dr. Justin Chun-ting Ho](https://www.uva.nl/en/profile/h/o/j.c.ho/j.c.ho.html) who works as a postdoctoral researcher at the lab. The team is helped by the lab's Advisory Board, consisting of four members each representing one of the main research domains within communication science at the University of Amsterdam.
+The Digicomlab is managed by its daily management team consisting of the lab's co-directors [Dr. Joanna Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html) and [Dr. A. Marthe Möller](https://www.uva.nl/en/profile/m/o/a.m.moller/a.m.moller.html). They are helped by the lab's Advisory Board, consisting of four members each representing one of the main research domains within communication science at the University of Amsterdam.
 
 
 
@@ -23,12 +23,6 @@ Persuasive Communication, ASCoR
 Co-Director\
 Assistant Professor\
 Youth & Media Entertainment, ASCoR
-{{< /card >}}
-{{< card >}}
-#### Justin Chun-ting Ho
-![](../profile_pic/jcho.jpg)
-Postdoctoral Researcher\
-Political Communication & Journalism, ASCoR
 {{< /card >}}
 {{< /cards >}}
 
@@ -68,7 +62,7 @@ Political Communication and Journalism, ASCoR
 {{< /cards >}}
 
 ## Fellows
-[Dr. Rebekah Tromble](https://smpa.gwu.edu/rebekah-tromble) and [Dr. Jakob Ohme](https://www.weizenbaum-institut.de/portrait/p/jakob-ohme/#page=1&sort=date) are Fellows of the Digital Communication Methods Lab.
+[Dr. Justin Chun-ting Ho](https://dcat.nycu.edu.tw/en/members/justin-chun-ting-ho/), [Dr. Rebekah Tromble](https://smpa.gwu.edu/rebekah-tromble) and [Dr. Jakob Ohme](https://www.weizenbaum-institut.de/portrait/p/jakob-ohme/#page=1&sort=date) are Fellows of the Digital Communication Methods Lab.
 
 ## Past Board
 The Digital Communication Methods Lab started as an initiative of the RPA Communication. [Prof. Claes de Vreese](https://claesdevreese.wordpress.com/) was the director of the RPA Communication, and of the Digital Communication Methods Lab. [Prof. Theo Araujo](https://theoaraujo.eu/) and [Prof. Judith Möller](https://leibniz-hbi.de/en/staff/judith-moeller) were co-directing the lab.

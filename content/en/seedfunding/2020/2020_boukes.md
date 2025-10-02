@@ -13,6 +13,7 @@ An often-researched question is whether online debate between citizens lives up 
 This project is reported in the following publications:
 - Boukes, M., Chu, X., Noon, M. F. A., Liu, R., Araujo, T., & Kroon, A. C. (2021). Comparing user-content interactivity and audience diversity across news and satire: differences in online engagement between satire, regular news and partisan news. Journal of Information Technology & Politics, 19(1), 98–117. https://doi.org/10.1080/19331681.2021.1927928
 - Boukes, M. (2024). Deliberation in online political talk: exploring interactivity, diversity, rationality, and incivility in the public spheres surrounding news vs. satire. Journal of Communication, jqae038. https://doi.org/10.1093/joc/jqae038.
+- Stolwijk, S. B., Boukes, M., Yeung, W. N., Liao, Y., Münker, S., Kroon, A. C., & Trilling, D. (2025). Can we use automated approaches to measure the quality of online political discussion? How to (not) measure interactivity, diversity, rationality, and incivility in online comments to the news. Communication Methods and Measures, 1-25. https://doi.org/10.1080/19312458.2025.2553300
 
 
 

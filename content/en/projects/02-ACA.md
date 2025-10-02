@@ -14,7 +14,7 @@ Given that more and more communication happens online and is available in a digi
 
 The following projects are using/studying this method:
 
-
+- [Towards Automated News Comment Moderation](https://digicomlab.github.io/seedfunding/2025/2025_dubel/)
 - [A cross-platform, multi-model investigation into political moral appeals](https://digicomlab.github.io/seedfunding/2023/2023_hopp/)
 - [Moved to comment](https://digicomlab.github.io/seedfunding/2023/2023_moller/)
 - [Facts to you, opinions to me](https://digicomlab.github.io/seedfunding/2023/2023_lin/)

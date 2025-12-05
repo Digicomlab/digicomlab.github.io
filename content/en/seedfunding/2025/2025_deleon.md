@@ -1,7 +1,7 @@
 ---
 
-Title: "dashboardr R package"
-Subtitle: "An R package for accessible research visualization"
+Title: "dashboardr R package: An R package for accessible research visualization"
+Subtitle: ""
 Date: 2025
 ----------
 ###### 2025
@@ -10,6 +10,8 @@ Date: 2025
 This project investigates how dashboards can make research findings more accessible to non-experts, journalists, policymakers, and the general public. While open-science initiatives have made datasets publicly available, technical barriers often prevent broader engagement. To address this, we develop **dashboardr**, an open-source R package that enables researchers with basic R skills to create professional, interactive dashboards with minimal technical effort. By transforming data into intuitive visual narratives, these dashboards bridge the gap between academic research and real-world impact, supporting transparency, outreach, and public engagement.
 
 For this project, we are working closely with Alexandra Pafford, who supports us as a research assistant in the development of the package.
+
+Using the dashboard R package, [a dashboard about the DigIQ monitor](https://www.digiqmonitor.nl/) was developed.
 
 Notable examples of dashboards that inspire this project include:
 

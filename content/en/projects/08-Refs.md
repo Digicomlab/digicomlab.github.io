@@ -9,6 +9,8 @@ This page contains an overview of conference presentations and publications base
 
 ## 2025
 
+- Möller, A. M., & Strycharz, J. (2025). Searching for traces of Kama Muta: Examining viewers' responses to online videos. Entertainment Computing, 55, Article 101028. https://doi.org/10.1016/j.entcom.2025.101028
+
 - Breves, P. L., van Berlo, Z. M. C, Teunissen, L., König, L., Binder, A., & Naderer, B. (2025). Happier and healthier? Investigating the longitudinal impact of body-positive and fitspirational influencers on weight satisfaction, healthy eating, and physical activity. Health Communication. https://doi.org/10.1080/10410236.2025.2465795
 
 - Breves, P. L., Boerman, S. C., Stein, J.-P., Ischen, C., & van Berlo, Z. M. C. (2025). The impact of body-positive and fitspirational influencers on body satisfaction: A longitudinal study of evolving parasocial relationships. Human Communication Research. https://doi.org/10.1093/hcr/hqaf029

@@ -9,6 +9,10 @@ This page contains an overview of conference presentations and publications base
 
 ## 2025
 
+- Breves, P. L., van Berlo, Z. M. C, Teunissen, L., König, L., Binder, A., & Naderer, B. (2025). Happier and healthier? Investigating the longitudinal impact of body-positive and fitspirational influencers on weight satisfaction, healthy eating, and physical activity. Health Communication. https://doi.org/10.1080/10410236.2025.2465795
+
+- Breves, P. L., Boerman, S. C., Stein, J.-P., Ischen, C., & van Berlo, Z. M. C. (2025). The impact of body-positive and fitspirational influencers on body satisfaction: A longitudinal study of evolving parasocial relationships. Human Communication Research. https://doi.org/10.1093/hcr/hqaf029
+
 - Stolwijk, S. B., Boukes, M., Yeung, W. N., Liao, Y., Münker, S., Kroon, A. C., & Trilling, D. (2025). Can we use automated approaches to measure the quality of online political discussion? How to (not) measure interactivity, diversity, rationality, and incivility in online comments to the news. Communication Methods and Measures, 1-25. https://doi.org/10.1080/19312458.2025.2553300
 
 

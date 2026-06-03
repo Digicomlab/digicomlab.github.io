@@ -1,6 +1,6 @@
 ---
 
-Title: "A game for civic resilience" "
+Title: "A game for civic resilience"
 Subtitle: "SHIELD: A game-based framework for building civic resilience to moral manipulation in an era of digitized conflict"
 Date: 2025
 ---

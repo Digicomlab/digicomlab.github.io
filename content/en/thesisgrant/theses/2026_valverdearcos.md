@@ -1,7 +1,7 @@
 ---
 
-title: "The TikTok News-Finds-Me Illusion"" "
-subtitle: "Does the News Really Find Them? “News Finds Me” Perception and the Accuracy of News Consumption Estimates on TikTok"" "
+title: "The TikTok News-Finds-Me Illusion"
+subtitle: "Does the News Really Find Them? 'News Finds Me' Perception and the Accuracy of News Consumption Estimates on TikTok"
 date: semester 2, academic year 2025/2026
 ---
 ###### 2026

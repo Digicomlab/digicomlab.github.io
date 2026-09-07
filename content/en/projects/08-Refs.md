@@ -34,6 +34,8 @@ This page contains an overview of conference presentations and publications base
 
 - Wald, R., Van Oosten, J. M., Piotrowski, J. T., & Araujo, T. (2024, June). Smart speaker data donations in families: The Project Rosie perspective. In Proceedings of the 23rd Annual ACM Interaction Design and Children Conference (pp. 680-685). https://doi.org/10.1145/3628516.365937
 
+- Strycharz, J., Meppelink, C., Zarouali, B., Araujo, T., & Voorveld, H. (2024). The blind spot in data donations: Who is (not) willing to donate digital data in social scientific research. Computational Communication Research, 6(2), 1. https://doi.org/10.5117/CCR2024.2.3.STRY 
+
 
 ## 2023
 

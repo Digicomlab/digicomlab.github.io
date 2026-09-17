@@ -3,7 +3,7 @@
 Title: "dashboardr R package: An R package for accessible research visualization"
 Subtitle: ""
 Date: 2025
-----------
+---
 ###### 2025
 #### By Ernesto de León, Fabio Votta, and Max Paulus
 
